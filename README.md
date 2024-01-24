@@ -27,10 +27,12 @@ $ pip install -r requirements.txt
 ## Experiments
 On encode-only models, we experimented with six tasks in GLUE, the MCID task and StackOverflow task.    
 On decode-only models, we experimented with Alpaca/Dolly dataset and CNN/DM dataset.     
-Please see the [scripts](scripts/) and run shell files to train or evaluate on each dataset.    
+
+
+<!-- Please see the [scripts](scripts/) and run shell files to train or evaluate on each dataset.    
 ```bash
 $ python run_[TASK_NAME]_[DATASET_NAME].sh
-```
+```  -->
 
 
 ## BibTeX

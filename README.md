@@ -1,7 +1,7 @@
 # ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference (AAAI 2024)
 Code for the paper titled "ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference" [AAAI 2024 Main Track] 
 
-Due to this is a new area about Large Language Model's inference accerleration, we are open to any advice for improving our work.
+# Due to this is a new area about Large Language Model's inference accerleration, we are open to any advice for improving our work.#
 
 <p align="center">
 <img width="1394" src="https://github.com/yihuaihong/yihuaihong.github.io/blob/main/images/Main%20Structure.png">
@@ -10,10 +10,10 @@ Due to this is a new area about Large Language Model's inference accerleration, 
 [**ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference**](https://arxiv.org/abs/2312.11882)      
 [Ziqian Zeng](https://ziqianzeng.github.io/)$^\*$, 
 [Yihuai Hong](https://yihuaihong.github.io/)$^\*$,  
-[Hongliang Dai](https://hldai.github.io/)$^\dagger$,
-Huiping Zhuang$^\dagger$<br/>
-Cen Chen$^\dagger$<br/>
-\* equal contribution $&nbsp$ $\dagger$ corresponding author
+[Hongliang Dai](https://hldai.github.io/),
+Huiping Zhuang,
+Cen Chen
+\* equal contribution 
 
 - We propose **ConsistentEE**, an early exiting method that can achieve consistency during training and inference by formulating the early exiting problem as a reinforcement learning problem.
 - We propose a concept named Memorized Layer to measure the hardness of an instance. We incorporate it into the reward function to allow an instance to balance the accuracy and acceleration - depending on individual hardness.

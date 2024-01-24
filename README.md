@@ -9,8 +9,7 @@ Code for the paper titled "ConsistentEE: A Consistent and Hardness-Guided Early 
 
 [**ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference**](https://arxiv.org/abs/2312.11882)      
 [Ziqian Zeng](https://ziqianzeng.github.io/)$^\*$, 
-[Yihuai Hong](https://yihuaihong.github.io/)$^\*$,  
-[Hongliang Dai](https://hldai.github.io/),
+[Yihuai Hong](https://yihuaihong.github.io/)$^\*$,[Hongliang Dai](https://hldai.github.io/),
 Huiping Zhuang,
 Cen Chen<br/>
 \* equal contribution 

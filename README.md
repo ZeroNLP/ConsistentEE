@@ -4,15 +4,15 @@ Code for the paper titled "ConsistentEE: A Consistent and Hardness-Guided Early 
 Due to this is a new area about Large Language Model's inference accerleration, we are open to any advice for improving our work.
 
 <p align="center">
-<img width="1394" src="https://github.com/raymin0223/fast_robust_early_exit/assets/50742281/0aba3284-951c-4342-af1f-16dc70030654">
+<img width="1394" src="https://github.com/yihuaihong/yihuaihong.github.io/blob/main/images/Main%20Structure.png">
 </p>
 
 [**ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference**](https://arxiv.org/abs/2312.11882)      
 [Ziqian Zeng](https://ziqianzeng.github.io/)$^\*$, 
 [Yihuai Hong](https://yihuaihong.github.io/)$^\*$,  
 [Hongliang Dai](https://hldai.github.io/)$^\dagger$,
-[Huiping Zhuang]$^\dagger$<br/>
-[Cen Chen])$^\dagger$<br/>
+Huiping Zhuang$^\dagger$<br/>
+Cen Chen$^\dagger$<br/>
 \* equal contribution $&nbsp$ $\dagger$ corresponding author
 
 - We propose **ConsistentEE**, an early exiting method that can achieve consistency during training and inference by formulating the early exiting problem as a reinforcement learning problem.

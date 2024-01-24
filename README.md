@@ -1,7 +1,7 @@
 # ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference (AAAI 2024)
 Code for the paper titled "ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference" [AAAI 2024 Main Track] 
 
-# Due to this is a new area about Large Language Model's inference accerleration, we are open to any advice for improving our work.#
+**Due to this is a new area about Large Language Model's inference accerleration, we are open to any advice for improving our work.**
 
 <p align="center">
 <img width="1394" src="https://github.com/yihuaihong/yihuaihong.github.io/blob/main/images/Main%20Structure.png">

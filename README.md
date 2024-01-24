@@ -12,7 +12,7 @@ Code for the paper titled "ConsistentEE: A Consistent and Hardness-Guided Early 
 [Yihuai Hong](https://yihuaihong.github.io/)$^\*$,  
 [Hongliang Dai](https://hldai.github.io/),
 Huiping Zhuang,
-Cen Chen
+Cen Chen<br/>
 \* equal contribution 
 
 - We propose **ConsistentEE**, an early exiting method that can achieve consistency during training and inference by formulating the early exiting problem as a reinforcement learning problem.

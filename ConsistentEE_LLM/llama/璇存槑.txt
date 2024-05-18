@@ -1,0 +1,3 @@
+llama文件里时需更改的llamamodel
+推理是model参数mode直接指定我们要的模式
+训练时model参数mode=mode，从外部传参

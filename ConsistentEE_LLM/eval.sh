@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python evaluate_xsum.py --base_model your_model_path --output_dir output_path
